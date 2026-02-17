@@ -4,40 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36abdb8c-ca87-47e0-82f1-a50e1f91069c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    <list default="true" id="36abdb8c-ca87-47e0-82f1-a50e1f91069c" name="Changes" comment="generate route types">
+      <change afterPath="$PROJECT_DIR$/app/contato/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/diagnostico/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/educacao/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ferramentas/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/planejamento/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sobre/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/forms/ContatoForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/forms/DiagnosticoForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/sections/ApresentacaoProjeto.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/sections/FAQ.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/sections/Hero.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/sections/MissaoVisaoValores.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/sections/Problema.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/sections/PublicoAlvo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KaiqueDultra&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KaiqueDultra/fluxo-de-caixa.git&quot;,
+    &quot;accountId&quot;: &quot;06150871-2c93-4314-ad9d-99bd6df6019d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="39oVukbcG5p47WyfkbzmafbTW7w" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/kaiqu/OneDrive/Área de Trabalho/Teste",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kaiqu/OneDrive/Área de Trabalho/Teste&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\kaiqu\\OneDrive\\Área de Trabalho\\fluxo-de-caixa\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,11 +89,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771362635957</updated>
-      <workItem from="1771362636655" duration="798000" />
+      <workItem from="1771362636655" duration="2458000" />
     </task>
+    <task id="LOCAL-00001" summary="generate route types">
+      <option name="closed" value="true" />
+      <created>1771364309446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771364309446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="generate route types" />
+    <option name="LAST_COMMIT_MESSAGE" value="generate route types" />
   </component>
 </project>
